@@ -20,10 +20,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 - title: Home
   url: /home
-- title: Publicações
-  url: /posts
+- title: Projetos
+  url: /projects
 - title: Contato
-  url: /contact
+  file: _others/contact.md
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "joaovictorrosmaninho@gmail.com"}
