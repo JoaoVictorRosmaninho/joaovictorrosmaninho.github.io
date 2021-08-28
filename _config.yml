@@ -16,8 +16,14 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  
+
+- title: Home
+  url: /home
+- title: Publicações
+  url: /posts
+- title: Contato
+  url: /contact
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "joaovictorrosmaninho@gmail.com"}
